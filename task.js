@@ -18,6 +18,7 @@ function getArrayParams(arr) {
   return { min: min, max: max, avg: avg };
 }
 
+
 // Задание 2
 function worker(arr) {
   let sum = 0;
@@ -35,6 +36,7 @@ function makeWork(arrOfArr, worker) {
   }
   return max;
 }
+
 
 // Задание 3
 function worker2(arr) {
